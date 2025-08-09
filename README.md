@@ -8,6 +8,8 @@ Optionally add notes about what you studied.
 Set your daily study goal (in hours).
 Watch your progress bar fill up as you log more time!
 Check your History page to see all your past sessions.
+
+
 💡 Why Use Study Tracker?
 Stay motivated by tracking your daily progress.
 Build consistent study habits over time.
